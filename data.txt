@@ -1,0 +1,5 @@
+Courier New
+10
+#000000
+white
+utf-8
