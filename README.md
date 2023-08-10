@@ -1,6 +1,5 @@
 # text_editor
 This is a text editor application.
-> **Warning**: This application working only on windows computer. To run this on linux/macOS computer, go to [this link](https://github.com/liorokman/simple-editor/) and download all files.
 
 ## Step 1
 Download **all files** to your computer.
